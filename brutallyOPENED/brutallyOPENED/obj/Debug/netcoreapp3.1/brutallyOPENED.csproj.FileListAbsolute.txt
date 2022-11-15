@@ -1,0 +1,14 @@
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.exe
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.deps.json
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.runtimeconfig.json
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.runtimeconfig.dev.json
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.dll
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.pdb
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.csproj.AssemblyReference.cache
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.AssemblyInfoInputs.cache
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.AssemblyInfo.cs
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.csproj.CoreCompileInputs.cache
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.dll
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.pdb
+C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.genruntimeconfig.cache

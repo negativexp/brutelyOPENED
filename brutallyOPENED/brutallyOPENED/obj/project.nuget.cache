@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZPK85Bi/YXXMGlzAep8UZtorl9ok7UGwNSYDfyaq1XvProcicZoxBgktq9NwLzA1Oax7fjavWuEgPOQtSxDm1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matta\\Documents\\GitHub\\brutelyOPENED\\brutallyOPENED\\brutallyOPENED\\brutallyOPENED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
