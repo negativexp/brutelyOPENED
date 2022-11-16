@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZPK85Bi/YXXMGlzAep8UZtorl9ok7UGwNSYDfyaq1XvProcicZoxBgktq9NwLzA1Oax7fjavWuEgPOQtSxDm1w==",
+  "dgSpecHash": "/Ik5d4sgje7HVoyQ4rP7zPYlHPS+IXY2+aon6NwqMH0w5ezl8igUWUMZ0J9opdowz31tc+O60oHkZnLfn10Pfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matta\\Documents\\GitHub\\brutelyOPENED\\brutallyOPENED\\brutallyOPENED\\brutallyOPENED.csproj",
+  "projectFilePath": "C:\\Users\\matyas.schuller\\Documents\\GitHub\\brutelyOPENED\\brutallyOPENED\\brutallyOPENED\\brutallyOPENED.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\matta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+    "C:\\Users\\matyas.schuller\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\matyas.schuller\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\matyas.schuller\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\matyas.schuller\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

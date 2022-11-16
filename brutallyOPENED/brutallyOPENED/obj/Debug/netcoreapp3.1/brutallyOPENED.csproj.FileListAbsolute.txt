@@ -12,3 +12,17 @@ C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\
 C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.dll
 C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.pdb
 C:\Users\matta\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.genruntimeconfig.cache
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.exe
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.deps.json
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.runtimeconfig.json
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.runtimeconfig.dev.json
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.dll
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\bin\Debug\netcoreapp3.1\brutallyOPENED.pdb
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.csproj.AssemblyReference.cache
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.AssemblyInfoInputs.cache
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.AssemblyInfo.cs
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.csproj.CoreCompileInputs.cache
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.dll
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.pdb
+C:\Users\matyas.schuller\Documents\GitHub\brutelyOPENED\brutallyOPENED\brutallyOPENED\obj\Debug\netcoreapp3.1\brutallyOPENED.genruntimeconfig.cache
